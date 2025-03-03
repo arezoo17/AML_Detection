@@ -1,5 +1,5 @@
 # AML Detection with Machine Learning
-:moneybag: :dollar: :exclamation:
+:dollar:
 A project that applies machine learning techniques to detect suspicious transactions in a synthetic Anti-Money Laundering (AML) dataset.
 
 ## Overview
@@ -54,7 +54,7 @@ Due to the large size of the dataset (~9.5 million transactions), only a small s
 
 
 ## Contact
-Feel free to reach out via GitHub issues or email me at [arezooamani842@gmail.com](mailto:arezooamani842@gmail.com) for any questions or suggestions.
+:exclamation: Feel free to reach out via GitHub issues or email me at [arezooamani842@gmail.com](mailto:arezooamani842@gmail.com) for any questions or suggestions.
 
 
 ## How to Use
