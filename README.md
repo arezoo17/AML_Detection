@@ -28,11 +28,6 @@ The synthetic dataset (SAML-D) includes:
 
 Due to the large size of the dataset (~9.5 million transactions), only a small sample is included in `data/` for demonstration. The full dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/berkanoztas/synthetic-transaction-monitoring-dataset-aml).
 
-## How to Use
- **Clone this repository**:
-   ```bash
-   git clone https://github.com/arezoo17/AML_Detection/edit/main/README.md
-
 
 ## Methods and Approach
 - **Data Cleaning & EDA**: Removed duplicates, handled missing values, corrected data types (e.g., date/time), and performed exploratory analysis to understand distribution and correlations.
@@ -59,4 +54,11 @@ Due to the large size of the dataset (~9.5 million transactions), only a small s
 
 ## Contact
 Feel free to reach out via GitHub issues or email me at [arezooamani842@gmail.com](mailto:arezooamani842@gmail.com) for any questions or suggestions.
+
+
+## How to Use
+ **Clone this repository**:
+   ```bash
+   git clone https://github.com/arezoo17/AML_Detection/edit/main/README.md
+
 
