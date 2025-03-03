@@ -1,4 +1,5 @@
 # AML Detection with Machine Learning
+:moneybag: :dollar: :exclamation:
 A project that applies machine learning techniques to detect suspicious transactions in a synthetic Anti-Money Laundering (AML) dataset.
 
 ## Overview
